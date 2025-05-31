@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/914478406916836381/fa64e2c164c94bbcb523f42979340df8/artifacts
+end_time: 1748680292277
+entry_point_name: ''
+experiment_id: '914478406916836381'
+lifecycle_stage: active
+run_id: fa64e2c164c94bbcb523f42979340df8
+run_name: Production_RF_Model
+run_uuid: fa64e2c164c94bbcb523f42979340df8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748680257354
+status: 3
+tags: []
+user_id: Hassan

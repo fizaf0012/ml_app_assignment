@@ -1,0 +1,10 @@
+digest: 5a46f24a
+name: dataset
+profile: '{"num_rows": 95508, "num_elements": 477540}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "lead_time", "required": true},
+  {"type": "long", "name": "adults", "required": true}, {"type": "double", "name":
+  "children", "required": true}, {"type": "long", "name": "booking_changes", "required":
+  true}, {"type": "long", "name": "required_car_parking_spaces", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Hassan", "mlflow.source.name": "C:\\Users\\Hassan\\AppData\\Roaming\\Python\\Python313\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
