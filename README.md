@@ -85,9 +85,9 @@ Interactive API docs are available at `/docs` when the server is running.
 
 ## Screenshots
 
-| Streamlit app | FastAPI docs | MLflow runs |
+| Streamlit app s1 | Streamlit app s2 |
 |---|---|---|
-| ![App](screenshots/streamlit_app.png) | ![API](screenshots/fastapi_docs.png) | ![MLflow](screenshots/mlflow_runs.png) |
+| ![App](screenshots/streamlit_app.png) | ![API](screenshots/streamlit_app1.png) |
 
 ## Quick Start
 
