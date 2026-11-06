@@ -86,8 +86,8 @@ Interactive API docs are available at `/docs` when the server is running.
 ## Screenshots
 
 | Streamlit app s1 | Streamlit app s2 |
-|---|---|---|
-| ![App](screenshots/streamlit_app.png) | ![API](screenshots/streamlit_app1.png) |
+|---|---|
+| ![App](screenshots/streamlit_app.png) | ![API](screenshots/streamlit_app2.png) |
 
 ## Quick Start
 
